@@ -1,4 +1,4 @@
-package Atividades.Atividade_23_10.Banco;
+package Atividades_Marcelo.Outubro.Atividade_23_10_Interface_1.Banco;
 
 public abstract class Conta {
     protected int total = 100;
