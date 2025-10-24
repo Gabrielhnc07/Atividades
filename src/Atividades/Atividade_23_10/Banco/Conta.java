@@ -1,4 +1,4 @@
-package Banco;
+package Atividades.Atividade_23_10.Banco;
 
 public abstract class Conta {
     protected int total = 100;

@@ -1,4 +1,4 @@
-package Banco;
+package Atividades.Atividade_23_10.Banco;
 
 public class Main {
     public static void main(String[] args) {
